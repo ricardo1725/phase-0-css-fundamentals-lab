@@ -10,15 +10,16 @@ h1 {
 }
 
 header a {
-  background-color: gainsboro;
-  padding-left:1em;
-  padding-right: 1em;
+  background-color:rgb(223, 211, 47);
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 img {
 display: block;  
 margin-left: auto;
 margin-right: auto;
+width: 800px;
 }
 
 figcaption {
